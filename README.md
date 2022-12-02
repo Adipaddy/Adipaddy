@@ -1,5 +1,5 @@
 - Hello, I’m Aditya Waichol, an Under-Grad (Senior, Sem 7) in Electronics and Telecommunications at Xavier Institute of Engineering.       
-- I’m interested in Architecting, Developing and, Integrating technologies in the following domains:  
+- I’m interested Developing and Integrating technologies in the following domains:  
 >1. IoT / Embedded Systems  
 >2. ML / DL
 >3. Cloud  
