@@ -1,9 +1,8 @@
 - Hello, I’m Aditya Waichol, an Under Graduate in Electronics and Telecommunications Department at Xavier Institute of Engineering.       
 - I’m interested Developing and Integrating technologies in the following domains:  
->1. IoT / Embedded Systems  
->2. ML / DL
->3. Cloud  
->4. IoT  
+>1. Robotics / Embedded Systems  
+>2. IoT / Cloud
+>3. Machine Learning / Deep Learning    
 
 - I’m currently:    
 >1. Developing an ADAS System using the Jetson Nano Development Kit (by Nvidia) using Deep Learning.  
